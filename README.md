@@ -38,10 +38,10 @@ git clone https://github.com/yeshwanth281/Web-Tutorials.git
 ### Course Images
 ![image](https://github.com/user-attachments/assets/5b6222d3-3715-48e9-8645-0656e8dbcaca) ![image](https://github.com/user-attachments/assets/c74966c6-0f17-4a9c-895b-392b34bd6b78)
 ### Responsiveness
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/627a2410-9764-4203-827e-ca87c5e74604" alt="Responsive Image 1" width="45%" style="margin-right: 10px;" />
-  <img src="https://github.com/user-attachments/assets/9f9a6651-0578-4d25-be61-32f9909600b5" alt="Responsive Image 2" width="45%" />
+  <img src="https://github.com/user-attachments/assets/627a2410-9764-4203-827e-ca87c5e74604" alt="Responsive Image 1" width="42%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/9f9a6651-0578-4d25-be61-32f9909600b5" alt="Responsive Image 2" width="42%" />
 </p>
 
 
