@@ -40,7 +40,7 @@ git clone https://github.com/yeshwanth281/Web-Tutorials.git
 ### Responsiveness
 <p align="center">
   <img src="https://github.com/user-attachments/assets/627a2410-9764-4203-827e-ca87c5e74604" alt="Responsive Image 1" width="42%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/9f9a6651-0578-4d25-be61-32f9909600b5" alt="Responsive Image 2" width="42%" />
 </p>
 
